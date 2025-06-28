@@ -1,6 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Sabbir, Fullstack developer from <img src="https://i.ibb.co/RpcPbbfg/bangladesh.png" width="13"/> <b>Dhaka, Bangladesh</b>
+<p>I'm Sabbir, Fullstack developer from <img src="https://i.ibb.co/RpcPbbfg/bangladesh.png" width="13"/> <b>Dhaka, Bangladesh.</b>
+I am a versatile and highly skilled software developer with expertise in multiple programming languages and technologies. With a solid foundation in C/C++, Python, HTML, CSS, React.js, Node.js, and Django, I possess a comprehensive understanding of full-stack web development and have a strong grasp of data structures and algorithms.  
+<br/> 
+
 <h3>Things I code with</h3>
 
 <p>
@@ -25,6 +28,17 @@
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 <img alt="Render" src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
 </p>
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=stropurbo&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 98%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stropurbo&hide_border=true&layout=compact" align="left" style="width: 98%" />
+
+</td></tr></table>  
 
 <h3>Where to find me</h3>
 <p>
