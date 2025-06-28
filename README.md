@@ -24,5 +24,4 @@
 <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
 <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
 <img alt="Render" src="https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
-
 </p>
