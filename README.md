@@ -1,6 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Sabbir, Fullstack developer from <img src="https://i.ibb.co/RpcPbbfg/bangladesh.png" width="13"/> <b>Dhaka, Bangladesh.</b>
+<p>I'm Sabbir Hasan, Fullstack developer from <img src="https://i.ibb.co/RpcPbbfg/bangladesh.png" width="13"/> <b>Dhaka, Bangladesh.</b>
 I am a versatile and highly skilled software developer with expertise in multiple programming languages and technologies. With a solid foundation in C/C++, Python, HTML, CSS, React.js, Node.js, and Django, I possess a comprehensive understanding of full-stack web development and have a strong grasp of data structures and algorithms.  
 <br/> 
 
