@@ -1,7 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>I'm Sabbir Hasan, Fullstack developer from <img src="https://i.ibb.co/RpcPbbfg/bangladesh.png" width="13"/> <b>Dhaka, Bangladesh.</b>
-I am a versatile and highly skilled software developer with expertise in multiple programming languages and technologies. With a solid foundation in C/C++, Python, HTML, CSS, React.js, Node.js, and Django, I possess a comprehensive understanding of full-stack web development and have a strong grasp of data structures and algorithms.  
+I’m Sabbir Hasan, a full-stack web developer based in <img src="https://i.ibb.co/RpcPbbfg/bangladesh.png" width="13"/> <b>Dhaka, Bangladesh</b>, specializing in building scalable and high-performance digital solutions. Proficient in React, Django, Tailwind CSS, MySQL, and SQLite, I create responsive websites, admin dashboards, e-commerce platforms, event management systems, and custom REST APIs. I also seamlessly integrate third-party services like payment gateways and cloud storage to enhance functionality. My mission is to craft user-friendly applications tailored to meet real-world business needs.
 <br/> 
 
 <h3>Things I code with</h3>
